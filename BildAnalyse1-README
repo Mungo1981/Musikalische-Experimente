@@ -1,0 +1,14 @@
+Dieses Programm ist ein kleiner Helfer für den Analyse1
+Es ist in Processing geschrieben
+Es wandelt Intervalle in Farben um.
+Es braucht eine Datei:
+1. Test.txt = in der die Intervalle stehen
+und erzeugt eine Datei:
+1. Bild.png = in der das Bild enthalten ist.
+
+To-Do:
+1. Dateien auswählbar machen
+2. Bild größe einstellbar machen.
+3. Weitere Farb-Parameter einstellbar machen.
+4. Zusätzliche Darstellung der Sprung-Größen
+5. Zusätzliche Darstellung der Frequenzen
