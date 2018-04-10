@@ -1,0 +1,13 @@
+Dieses Programm erstellt aus vorgegebenen Intervallen eine Melodie.
+Damit tut dieses Programm praktisch das Gegenteil von Orgel1.
+Das Programm braucht eine Datei:
+1. Intervalle.txt = In der die zu realisierenden Intervalle stehen
+und erzeugt:
+1. Den Klang
+2. Frequenzen.txt = Die realisierten Frequenzen
+
+To-Do:
+1. Dateinamen auswählbar machen.
+2. Sprung-Größe Einstellbar machen
+3. Sprung-Größe in Datei hinzufügbar machen
+4. GUI verbessern
