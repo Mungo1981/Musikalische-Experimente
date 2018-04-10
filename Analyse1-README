@@ -1,0 +1,11 @@
+Dieses Programm wandelt Frequenzen in passende Intervalle um.
+Es braucht eine Datei 
+1. Test.txt - Mit den zu analysirenden Frequenzen
+Und erzeugt eine Datei:
+1. Intervalle.txt - Mit den gefundenen Intervallen
+
+To-Do:
+1. Die Datei Test.txt sollte besser Frequenzen.txt heißen
+2. Die Dateinamen sollten auswählbar sein.
+3. Das Programm sollte sich schließbar werden.
+4. GUI verbessern
