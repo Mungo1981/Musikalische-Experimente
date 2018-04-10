@@ -1,0 +1,12 @@
+Dieses Programm ist ein doppeltes Programm.
+1. Es sucht die passenden Basis Frequenzen für ein Stück Musik
+2. Es justiert den analysierten Klang auf neue Frequenzen.
+Das Programm braucht zwei Dateien:
+1. FrequenzenEin.txt = Eine TXT-Datei mit den zu justierenden Frequenzen.
+2. Test.wav = Eine Datei mit der zu analysierenden Musik und dem zu justierenden Klang
+
+To-Do:
+1. Die Datei Test.wav sollte besser Klang.wav heißen
+2. Die Dateien sollten auswählbar sein
+3. Die zu Justierende Frequenz sollte einstelbar sein
+4. Diese Einstellung sollte Komfortabel in eine Datei geschrieben werden können
