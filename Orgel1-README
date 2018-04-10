@@ -1,0 +1,9 @@
+Dieses Programm wurde geschrieben um einfache Melodien und Klänge in Intervallen zu erzeugen.
+Es erstellt nach einstellung zwei Dateien:
+1. oszil.wav = Die Melodie in Sinustönen
+2. NotenAusOrgel1.txt eine TXT-Datei mit den gespielten Frequenzen.
+
+To-Do:
+1. Das Programm speichert nicht immer die Frequenzen.
+2. Die GUI könnte besser sein. Ein Job für einen Designer
+3. Die Namen der zu erzeugenden Dateien könnte wählbar werden
